@@ -1,0 +1,12 @@
+body{
+    margin: 3em;
+    border: thin solid grey;
+}
+#holder {
+    margin: 3em;
+}
+.column-div {
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+}
